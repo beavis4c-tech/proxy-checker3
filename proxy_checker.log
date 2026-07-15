@@ -1,0 +1,46 @@
+2026-07-15 23:15:13 | INFO    | =======================================================
+2026-07-15 23:15:13 | INFO    |   CLOUD PROXY CHECKER -- Infinite Loop
+2026-07-15 23:15:13 | INFO    |   Target : http://httpheader.net/
+2026-07-15 23:15:13 | INFO    |   Threads: 500  |  Timeout: 12s  |  Batch: 10000
+2026-07-15 23:15:13 | INFO    |   Webhook: https://discord.com/api/webhooks/1527071526250086570/ZB4qGto...
+2026-07-15 23:15:13 | INFO    | =======================================================
+2026-07-15 23:15:13 | INFO    | 
+=======================================================
+2026-07-15 23:15:13 | INFO    |   >>> BATCH #1
+2026-07-15 23:15:13 | INFO    | =======================================================
+
+2026-07-15 23:15:13 | INFO    | Generating 10000 random HTTP proxies ...
+2026-07-15 23:15:13 | INFO    | Generated 10000 proxies.
+2026-07-15 23:15:13 | INFO    | Spinning up 500 worker threads ...
+2026-07-15 23:15:24 | INFO    | [PROGRESS] 79 / 10000  (0.8%)  |  Hits so far: 0
+2026-07-15 23:15:34 | INFO    | [PROGRESS] 674 / 10000  (6.7%)  |  Hits so far: 0
+2026-07-15 23:15:44 | INFO    | [PROGRESS] 1277 / 10000  (12.8%)  |  Hits so far: 0
+2026-07-15 23:15:54 | INFO    | [PROGRESS] 1870 / 10000  (18.7%)  |  Hits so far: 0
+2026-07-15 23:16:04 | INFO    | [PROGRESS] 2398 / 10000  (24.0%)  |  Hits so far: 0
+2026-07-15 23:16:14 | INFO    | [PROGRESS] 2713 / 10000  (27.1%)  |  Hits so far: 0
+2026-07-15 23:16:24 | INFO    | [PROGRESS] 3066 / 10000  (30.7%)  |  Hits so far: 0
+2026-07-15 23:16:34 | INFO    | [PROGRESS] 3627 / 10000  (36.3%)  |  Hits so far: 0
+2026-07-15 23:16:44 | INFO    | [PROGRESS] 4219 / 10000  (42.2%)  |  Hits so far: 0
+2026-07-15 23:16:54 | INFO    | [PROGRESS] 4791 / 10000  (47.9%)  |  Hits so far: 0
+2026-07-15 23:17:04 | INFO    | [PROGRESS] 5273 / 10000  (52.7%)  |  Hits so far: 0
+2026-07-15 23:17:14 | INFO    | [PROGRESS] 5517 / 10000  (55.2%)  |  Hits so far: 0
+2026-07-15 23:17:24 | INFO    | [PROGRESS] 6006 / 10000  (60.1%)  |  Hits so far: 0
+2026-07-15 23:17:34 | INFO    | [PROGRESS] 6602 / 10000  (66.0%)  |  Hits so far: 0
+2026-07-15 23:17:44 | INFO    | [PROGRESS] 7178 / 10000  (71.8%)  |  Hits so far: 0
+2026-07-15 23:17:54 | INFO    | [PROGRESS] 7737 / 10000  (77.4%)  |  Hits so far: 0
+2026-07-15 23:18:04 | INFO    | [PROGRESS] 8203 / 10000  (82.0%)  |  Hits so far: 0
+2026-07-15 23:18:14 | INFO    | [PROGRESS] 8495 / 10000  (85.0%)  |  Hits so far: 0
+2026-07-15 23:18:24 | INFO    | [PROGRESS] 8993 / 10000  (89.9%)  |  Hits so far: 0
+2026-07-15 23:18:34 | INFO    | [PROGRESS] 9561 / 10000  (95.6%)  |  Hits so far: 0
+2026-07-15 23:18:44 | INFO    | [PROGRESS] 10000 / 10000  (100.0%)  |  Hits so far: 0
+2026-07-15 23:18:44 | INFO    | [BATCH DONE] Checked: 10000  |  Hits: 0  |  Duration: 210.8s
+2026-07-15 23:18:44 | INFO    | Batch #1 complete -- 0 hits.  Next batch starting ...
+2026-07-15 23:18:44 | INFO    | 
+=======================================================
+2026-07-15 23:18:44 | INFO    |   >>> BATCH #2
+2026-07-15 23:18:44 | INFO    | =======================================================
+
+2026-07-15 23:18:44 | INFO    | Generating 10000 random HTTP proxies ...
+2026-07-15 23:18:44 | INFO    | Generated 10000 proxies.
+2026-07-15 23:18:44 | INFO    | Spinning up 500 worker threads ...
+2026-07-15 23:18:55 | INFO    | [PROGRESS] 83 / 10000  (0.8%)  |  Hits so far: 0
