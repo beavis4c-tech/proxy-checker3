@@ -5,10 +5,10 @@ echo "============================================"
 echo " Cloud Proxy Checker — Render Startup"
 echo "============================================"
 
-cd cloud_checker || { echo "cloud_checker directory not found"; exit 1; }
+# Move into the correct directory
+cd cloud_checker || { echo "ERROR: cloud_checker folder not found"; exit 1; }
 
-# Install dependencies
 pip install -r requirements_cloud.txt
 
-# Launch the checker
+echo "Launching proxy checker..."
 exec python cloud_proxy_checker.py
